@@ -2,6 +2,6 @@
   "name": "now-go-modules",
   "version": 2,
   "builds": [
-    { "src": "api/handler.go", "use": "@now/go" }
+    { "src": "api/handler.go", "use": "@now/go@canary" }
   ]
 }
