@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/antonmoiseev/now-go-modules/handlers"
+	"github.com/antonmoiseev/now-go-modules/api/handlers"
 )
 
 func main() {

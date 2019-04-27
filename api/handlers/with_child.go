@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/antonmoiseev/now-go-modules/handlers/child"
+	"github.com/antonmoiseev/now-go-modules/api/handlers/child"
 )
 
 func Child(w http.ResponseWriter, r *http.Request) {
